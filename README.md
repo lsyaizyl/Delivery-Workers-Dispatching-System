@@ -60,7 +60,7 @@
 | 前端 | Vue 3 + Vite | 组件化开发，快速构建 |
 | 状态管理 | Pinia / Vuex | *(视项目具体引用)* |
 | UI 框架 | Element Plus | 高效美观的组件库 |
-| 后端 | Spring Boot 2.x | 简化配置，快速开发 |
+| 后端 | Spring Boot 3.x | 简化配置，快速开发 |
 | ORM | MyBatis / MyBatis-Plus | 灵活的数据访问层 |
 | 数据库 | MySQL 8.0 | 关系型数据库 |
 | 工具库 | Lombok, Hutool | 减少模板代码 |
