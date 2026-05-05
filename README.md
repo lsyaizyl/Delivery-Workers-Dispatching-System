@@ -105,7 +105,7 @@ Delivery-Workers-Dispatching-System/
 
 ## 🔧 环境要求
 
-- **JDK** 1.8 或以上  
+- **JDK** 17 或以上  
 - **Node.js** 16+  
 - **MySQL** 8.0+  
 - **Maven** 3.6+  
